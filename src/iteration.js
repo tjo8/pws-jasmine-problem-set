@@ -7,6 +7,6 @@ Iteration.prototype.addPoints = function(points) {
 };
 
 Iteration.prototype.totalPoints = function() {
-  return.totalPoints = this.points;
+  return totalPoints = this.points;
 }
 
